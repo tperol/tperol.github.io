@@ -1,2 +1,3 @@
 # tperol.github.io
-websites hosted on within
+Hosting website for cs109 final project under:
+https://tperol.github.io/cs109-finalproject/
